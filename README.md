@@ -87,8 +87,8 @@ Hands-on Lab
     | Resource group | the name of a new resource group **RG-TAE-VMs** |
     | Virtual machine name | **VM01** |
     | Region | select same region the Resouce group | 
-    | Availability options | **Availability sets** |
-    | Availability set | **AS-VM** |
+    | Availability options | **Availability zone** |
+    | Availability set | **1 or 2 or 3** |
     | Image | **Windows Server 2019 Datacenter - Gen1** |
     | Azure Spot instance | **No** |
     | Size | **Standard_B2s** |
